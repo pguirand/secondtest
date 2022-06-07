@@ -8,6 +8,9 @@ def display_lines(n=10):
 def addition(a=5, b=10):
     return a+b
 
-display_lines()
+def masterb():
+    print("In master branch")
 
+display_lines()
 print(addition())
+masterb()
