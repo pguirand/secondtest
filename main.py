@@ -8,6 +8,10 @@ def display_lines(n=10):
 def addition(a=5, b=10):
     return a+b
 
-display_lines()
+def printest():
+    print("New branch test")
 
+display_lines()
 print(addition())
+printest()
+
